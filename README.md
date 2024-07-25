@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project implements a deep neural network for image classification, specifically to distinguish between cat and non-cat images. It's part of a programming assignment from the "Neural Networks and Deep Learning" course, which is likely part of the Deep Learning Specialization on Coursera.
+This project implements a deep neural network for image classification, specifically to distinguish between cat and non-cat images. It's part of a programming assignment from the "Neural Networks and Deep Learning" course, which is likely part of the Deep Learning Specialization by DeepLearning.AI on Coursera.
 
 ## Key Features
 
